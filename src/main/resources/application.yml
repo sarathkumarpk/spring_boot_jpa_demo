@@ -1,0 +1,9 @@
+server:
+  servlet:
+    context-path: /pagila
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/pagila
+    username: postgres
+    password: blabla
